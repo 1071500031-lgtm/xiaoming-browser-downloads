@@ -1,5 +1,5 @@
 {
-  "version": "7.4.83",
-  "notes": "新增启动时检查新版、显示更新内容与打开官方下载页；新手教学增加注册频繁时的网络提示；修复站位参考图拖线引用。安装包未签名，需要手动安装更新。",
-  "downloadUrl": "https://github.com/1071500031-lgtm/xiaoming-browser-downloads/releases/download/v7.4.83/XiaomingBrowser-7.4.83-win-x64.exe"
+  "version": "7.4.84",
+  "notes": "用于验证新版提醒与手动更新流程。此版本仅提升版本号，授权模块、授权服务器、应用标识和用户数据目录均未改变；安装包未签名，需要手动安装。",
+  "downloadUrl": "https://github.com/1071500031-lgtm/xiaoming-browser-downloads/releases/download/v7.4.84/XiaomingBrowser-7.4.84-win-x64.exe"
 }
